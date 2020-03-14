@@ -12,7 +12,7 @@
 
 **Section 01: Essential Python Concepts**
 
-> 01 - Basic Data Types In Python\
+> [01 - Basic Data Types In Python](https://github.com/tssovi/mastering-data-structures-and-algorithms-using-python/blob/master/section-01-essential-python-concepts/01-basic-data-types-in-python.py)\
 > 02 - Basic Builtin Functions In Python
 
 **Section 02: Introduction**
