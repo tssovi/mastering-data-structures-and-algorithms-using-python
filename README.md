@@ -8,6 +8,12 @@
 * In this repository I only cover coding parts with minimal explanations.
 * Detailed explanations I will added in my [LinkedIn](https://www.linkedin.com/in/tssovi/) and [Medium](https://medium.com/@tssovi) as post.
 
+**Find Further Details In LinkedIn:**
+[Mastering DS & Algo Using Python - LinkedIn](http://bit.ly/mastering-ds-algo-using-python-linkedin)
+
+**Find Further Details In Medium:**
+[Mastering DS & Algo Using Python - Medium](http://bit.ly/mastering-ds-algo-using-python-medium)
+
 ### Repository Content
 
 **Section 01: Essential Python Concepts**
@@ -15,9 +21,9 @@
 > [01 - Basic Data Types In Python](https://github.com/tssovi/mastering-data-structures-and-algorithms-using-python/blob/master/section-01-essential-python-concepts/01-basic-data-types-in-python.py)\
 > [02 - Basic Builtin Functions In Python](https://github.com/tssovi/mastering-data-structures-and-algorithms-using-python/blob/master/section-01-essential-python-concepts/02-basic-builtin-functions-in-python.py)
 
-**Section 02: Introduction**
+**Section 02: Basic Prerequisites**
 
-> 01 - Stack vs Heap Memory\
+> 01 - Memory Management\
 > 02 - Physical vs Logical Data Structures\
 > 03 - ADT\
 > 04 - Time and Space Complexity
