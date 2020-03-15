@@ -18,12 +18,12 @@
 
 **Section 01: Essential Python Concepts**
 
-> [01 - Basic Data Types In Python](https://github.com/tssovi/mastering-data-structures-and-algorithms-using-python/blob/master/section-01-essential-python-concepts/01-basic-data-types-in-python.py)\
-> [02 - Basic Builtin Functions In Python](https://github.com/tssovi/mastering-data-structures-and-algorithms-using-python/blob/master/section-01-essential-python-concepts/02-basic-builtin-functions-in-python.py)
+> [01 - Basic Data Types In Python](http://bit.ly/2TQQKl3)\
+> [02 - Basic Builtin Functions In Python](http://bit.ly/2TRU3s6)
 
 **Section 02: Basic Prerequisites**
 
-> 01 - Memory Management\
+> [01 - Memory Management In Python]()\
 > 02 - Physical vs Logical Data Structures\
 > 03 - ADT\
 > 04 - Time and Space Complexity
