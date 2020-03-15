@@ -23,10 +23,9 @@
 
 **Section 02: Basic Prerequisites**
 
-> [01 - Memory Management In Python]()\
-> 02 - Physical vs Logical Data Structures\
-> 03 - ADT\
-> 04 - Time and Space Complexity
+> [01 - Memory Management In Python](http://bit.ly/3cXj4tn)\
+> [02 - Abstract Data Type (ADT)](http://bit.ly/2vnCjLT)\
+> 03 - Time and Space Complexity
 
 **Section 03: Recursion**
 
