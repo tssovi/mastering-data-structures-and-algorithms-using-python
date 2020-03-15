@@ -25,7 +25,7 @@
 
 > [01 - Memory Management In Python](http://bit.ly/3cXj4tn)\
 > [02 - Abstract Data Type (ADT)](http://bit.ly/2vnCjLT)\
-> 03 - Time and Space Complexity
+> [03 - Time and Space Complexity](http://bit.ly/2IQyUs5)
 
 **Section 03: Recursion**
 
