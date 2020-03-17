@@ -30,20 +30,19 @@
 **Section 03: Recursion**
 
 > [01 - Recursion Introduction](http://bit.ly/2wZlQ0V)\
-> 02 - Static and Global Variables in Recursion\
-> 03 - Tail Recursion\
-> 04 - Head Recursion\
-> 05 - Tree Recursion\
-> 06 - Indirect Recursion\
-> 07 - Nested Recursion\
-> 08 - Sum of Natural Number Using Recursion\
-> 09 - Factorial Using Recursion\
-> 10 - Power Using Recursion\
-> 11 - Taylor Series Using Recursion\
-> 12 - Taylor Series Using Horner's Rule Recursion\
-> 13 - Fibonacci Series Using Recursion - Memorization\
-> 14 - nCr Using Recursion\
-> 15 - Tower of Hanoi Problem Using Recursion
+> 02 - Tail Recursion\
+> 03 - Head Recursion\
+> 04 - Tree Recursion\
+> 05 - Indirect Recursion\
+> 06 - Nested Recursion\
+> 07 - Sum of Natural Number Using Recursion\
+> 08 - Factorial Using Recursion\
+> 09 - Power Using Recursion\
+> 10 - Taylor Series Using Recursion\
+> 11 - Taylor Series Using Horner's Rule Recursion\
+> 12 - Fibonacci Series Using Recursion - Memorization\
+> 13 - nCr Using Recursion\
+> 14 - Tower of Hanoi Problem Using Recursion
 
 **Section 04: Arrays Representations**
 
