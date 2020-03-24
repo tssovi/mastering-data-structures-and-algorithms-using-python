@@ -30,19 +30,18 @@
 **Section 03: Recursion**
 
 > [01 - Recursion Introduction](http://bit.ly/2wZlQ0V)\
-> 02 - Tail Recursion\
-> 03 - Head Recursion\
-> 04 - Tree Recursion\
-> 05 - Indirect Recursion\
-> 06 - Nested Recursion\
-> 07 - Sum of Natural Number Using Recursion\
-> 08 - Factorial Using Recursion\
-> 09 - Power Using Recursion\
-> 10 - Taylor Series Using Recursion\
-> 11 - Taylor Series Using Horner's Rule Recursion\
-> 12 - Fibonacci Series Using Recursion - Memorization\
-> 13 - nCr Using Recursion\
-> 14 - Tower of Hanoi Problem Using Recursion
+> [02 - Tail Recursion and Head Recursion](https://bit.ly/2UA3prA)\
+> 03 - Tree Recursion\
+> 04 - Indirect Recursion\
+> 05 - Nested Recursion\
+> 06 - Sum of Natural Number Using Recursion\
+> 07 - Factorial Using Recursion\
+> 08 - Power Using Recursion\
+> 09 - Taylor Series Using Recursion\
+> 10 - Taylor Series Using Horner's Rule Recursion\
+> 11 - Fibonacci Series Using Recursion - Memorization\
+> 12 - nCr Using Recursion\
+> 13 - Tower of Hanoi Problem Using Recursion
 
 **Section 04: Arrays Representations**
 
